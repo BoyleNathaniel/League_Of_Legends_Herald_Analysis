@@ -4,3 +4,4 @@ The idea is to create a basic webscraper (asyncio) to collect some data.
 
 Then rudimentary data analysis will be prefromed. Once basic analysis is complete, we can expand into more comprehensive data presnetations.
 
+Test commit
