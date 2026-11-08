@@ -1,0 +1,7 @@
+requests
+python-dotenv
+pandas
+beautifulsoup4
+lxml
+jupyter
+ipykernel
